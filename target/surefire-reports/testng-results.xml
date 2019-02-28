@@ -2,114 +2,114 @@
 <testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="98612" started-at="2019-02-28T22:18:25Z" finished-at="2019-02-28T22:20:04Z">
+  <suite name="Command line suite" duration-ms="106279" started-at="2019-02-28T22:32:22Z" finished-at="2019-02-28T22:34:08Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="98612" started-at="2019-02-28T22:18:25Z" finished-at="2019-02-28T22:20:04Z">
+    <test name="Command line test" duration-ms="106279" started-at="2019-02-28T22:32:22Z" finished-at="2019-02-28T22:34:08Z">
       <class name="com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest@7a5d012c]" name="f" duration-ms="26735" started-at="2019-02-28T14:19:16Z" finished-at="2019-02-28T14:19:43Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest@7a5d012c]" name="f" duration-ms="30641" started-at="2019-02-28T14:33:25Z" finished-at="2019-02-28T14:33:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest -->
       <class name="com.apex.ecommerce.order.OrderTest">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="Setup" is-config="true" duration-ms="5351" started-at="2019-02-28T14:19:43Z" finished-at="2019-02-28T14:19:48Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="Setup" is-config="true" duration-ms="4150" started-at="2019-02-28T14:33:56Z" finished-at="2019-02-28T14:34:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="orderTest()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="orderTest" duration-ms="13359" started-at="2019-02-28T14:19:48Z" finished-at="2019-02-28T14:20:02Z">
+        <test-method status="PASS" signature="orderTest()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="orderTest" duration-ms="8070" started-at="2019-02-28T14:34:00Z" finished-at="2019-02-28T14:34:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderTest -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="CleanUp" is-config="true" duration-ms="2070" started-at="2019-02-28T14:20:02Z" finished-at="2019-02-28T14:20:04Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.order.OrderTest@668bc3d5]" name="CleanUp" is-config="true" duration-ms="104" started-at="2019-02-28T14:34:08Z" finished-at="2019-02-28T14:34:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
       </class> <!-- com.apex.ecommerce.order.OrderTest -->
       <class name="com.apex.ecommerce.login.LoginTest">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="7997" started-at="2019-02-28T14:18:25Z" finished-at="2019-02-28T14:18:33Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="8494" started-at="2019-02-28T14:32:22Z" finished-at="2019-02-28T14:32:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="testLoginwithBlankData()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankData" duration-ms="535" started-at="2019-02-28T14:18:33Z" finished-at="2019-02-28T14:18:34Z">
+        <test-method status="PASS" signature="testLoginwithBlankData()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankData" duration-ms="645" started-at="2019-02-28T14:32:30Z" finished-at="2019-02-28T14:32:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginwithBlankData -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="94" started-at="2019-02-28T14:18:34Z" finished-at="2019-02-28T14:18:34Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="182" started-at="2019-02-28T14:32:31Z" finished-at="2019-02-28T14:32:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="5143" started-at="2019-02-28T14:18:34Z" finished-at="2019-02-28T14:18:39Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="8109" started-at="2019-02-28T14:32:31Z" finished-at="2019-02-28T14:32:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="testLoginwithBlankPassword()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankPassword" duration-ms="622" started-at="2019-02-28T14:18:39Z" finished-at="2019-02-28T14:18:39Z">
+        <test-method status="PASS" signature="testLoginwithBlankPassword()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankPassword" duration-ms="747" started-at="2019-02-28T14:32:39Z" finished-at="2019-02-28T14:32:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginwithBlankPassword -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="120" started-at="2019-02-28T14:18:39Z" finished-at="2019-02-28T14:18:40Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="102" started-at="2019-02-28T14:32:40Z" finished-at="2019-02-28T14:32:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="4955" started-at="2019-02-28T14:18:40Z" finished-at="2019-02-28T14:18:45Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="6911" started-at="2019-02-28T14:32:40Z" finished-at="2019-02-28T14:32:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="testLoginwithBlankUser()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankUser" duration-ms="1766" started-at="2019-02-28T14:18:45Z" finished-at="2019-02-28T14:18:46Z">
+        <test-method status="PASS" signature="testLoginwithBlankUser()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithBlankUser" duration-ms="576" started-at="2019-02-28T14:32:47Z" finished-at="2019-02-28T14:32:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginwithBlankUser -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="87" started-at="2019-02-28T14:18:46Z" finished-at="2019-02-28T14:18:46Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="99" started-at="2019-02-28T14:32:48Z" finished-at="2019-02-28T14:32:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="5123" started-at="2019-02-28T14:18:46Z" finished-at="2019-02-28T14:18:51Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="Setup" is-config="true" duration-ms="8642" started-at="2019-02-28T14:32:48Z" finished-at="2019-02-28T14:32:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="testLoginwithCorrectData()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithCorrectData" duration-ms="642" started-at="2019-02-28T14:18:51Z" finished-at="2019-02-28T14:18:52Z">
+        <test-method status="PASS" signature="testLoginwithCorrectData()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="testLoginwithCorrectData" duration-ms="581" started-at="2019-02-28T14:32:56Z" finished-at="2019-02-28T14:32:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginwithCorrectData -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="88" started-at="2019-02-28T14:18:52Z" finished-at="2019-02-28T14:18:52Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@380fb434]" name="CleanUp" is-config="true" duration-ms="89" started-at="2019-02-28T14:32:57Z" finished-at="2019-02-28T14:32:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
       </class> <!-- com.apex.ecommerce.login.LoginTest -->
       <class name="com.apex.ecommerce.registration.RegistrationTest">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="5187" started-at="2019-02-28T14:18:52Z" finished-at="2019-02-28T14:18:57Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="5757" started-at="2019-02-28T14:32:57Z" finished-at="2019-02-28T14:33:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="registrationTestwithNewEmailAndPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithNewEmailAndPasswordData" duration-ms="3377" started-at="2019-02-28T14:18:57Z" finished-at="2019-02-28T14:19:01Z">
+        <test-method status="PASS" signature="registrationTestwithNewEmailAndPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithNewEmailAndPasswordData" duration-ms="2991" started-at="2019-02-28T14:33:03Z" finished-at="2019-02-28T14:33:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTestwithNewEmailAndPasswordData -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="182" started-at="2019-02-28T14:19:01Z" finished-at="2019-02-28T14:19:01Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="103" started-at="2019-02-28T14:33:06Z" finished-at="2019-02-28T14:33:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="3598" started-at="2019-02-28T14:19:01Z" finished-at="2019-02-28T14:19:05Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="7379" started-at="2019-02-28T14:33:06Z" finished-at="2019-02-28T14:33:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="registrationTestwithNewEmailandWrongConfromaPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithNewEmailandWrongConfromaPasswordData" duration-ms="2758" started-at="2019-02-28T14:19:05Z" finished-at="2019-02-28T14:19:07Z">
+        <test-method status="PASS" signature="registrationTestwithNewEmailandWrongConfromaPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithNewEmailandWrongConfromaPasswordData" duration-ms="3135" started-at="2019-02-28T14:33:13Z" finished-at="2019-02-28T14:33:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTestwithNewEmailandWrongConfromaPasswordData -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="81" started-at="2019-02-28T14:19:07Z" finished-at="2019-02-28T14:19:07Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="118" started-at="2019-02-28T14:33:16Z" finished-at="2019-02-28T14:33:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="4240" started-at="2019-02-28T14:19:07Z" finished-at="2019-02-28T14:19:12Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="Setup" is-config="true" duration-ms="5332" started-at="2019-02-28T14:33:17Z" finished-at="2019-02-28T14:33:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="registrationTestwithUsedEmailandPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithUsedEmailandPasswordData" duration-ms="4377" started-at="2019-02-28T14:19:12Z" finished-at="2019-02-28T14:19:16Z">
+        <test-method status="PASS" signature="registrationTestwithUsedEmailandPasswordData()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="registrationTestwithUsedEmailandPasswordData" duration-ms="3149" started-at="2019-02-28T14:33:22Z" finished-at="2019-02-28T14:33:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTestwithUsedEmailandPasswordData -->
-        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="85" started-at="2019-02-28T14:19:16Z" finished-at="2019-02-28T14:19:16Z">
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@3cda1055]" name="CleanUp" is-config="true" duration-ms="96" started-at="2019-02-28T14:33:25Z" finished-at="2019-02-28T14:33:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUp -->
