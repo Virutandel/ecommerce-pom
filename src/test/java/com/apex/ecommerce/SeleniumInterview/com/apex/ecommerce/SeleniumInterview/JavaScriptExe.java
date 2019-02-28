@@ -46,6 +46,8 @@ public class JavaScriptExe {
 	Thread.sleep(3000);
 		driver.findElement(By.xpath(prop.getProperty("LastNameXpath"))).sendKeys("LastName");
 		driver.findElement(By.linkText(prop.getProperty("MobileNumberlink"))).sendKeys(prop.getProperty("MobileNumber"));
-	}
+
+driver.close();
+}
 
 }

@@ -98,6 +98,8 @@ public class NewTest {
 		Thread.sleep(3000);
 		driver.navigate().to(driver.getCurrentUrl());
 		
+		driver.close();
+		
 	}
 	
 }
