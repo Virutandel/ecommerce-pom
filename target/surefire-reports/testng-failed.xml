@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.apex.ecommerce.order.OrderTest">
+        <methods>
+          <include name="CleanUp"/>
+          <include name="orderTest"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.apex.ecommerce.order.OrderTest -->
+      <class name="com.apex.ecommerce.registration.RegistrationTest">
+        <methods>
+          <include name="registrationTestwithNewEmailandWrongConfromaPasswordData"/>
+          <include name="registrationTestwithUsedEmailandPasswordData"/>
+          <include name="registrationTestwithNewEmailAndPasswordData"/>
+          <include name="CleanUp"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.apex.ecommerce.registration.RegistrationTest -->
+      <class name="com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.apex.ecommerce.SeleniumInterview.com.apex.ecommerce.SeleniumInterview.NewTest -->
+      <class name="com.apex.ecommerce.login.LoginTest">
+        <methods>
+          <include name="testLoginwithCorrectData"/>
+          <include name="testLoginwithBlankData"/>
+          <include name="CleanUp"/>
+          <include name="testLoginwithBlankPassword"/>
+          <include name="testLoginwithBlankUser"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.apex.ecommerce.login.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
